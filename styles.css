@@ -16,7 +16,9 @@
     padding: 3rem;
     padding-top: 1rem;
 }
-
+.para1{
+    margin-left: 4rem;
+}
 /* Heading styles */
 .heading {
     display: flex;
@@ -117,15 +119,15 @@ h1 {
     flex-direction: column;
     width: 50%;
 }
-
 hr {
     border: 5px solid rgba(0, 0, 0, 0.701);
 }
 
-.para {
+.para,.para1 {
     font-size: 1.5rem;
     margin-top: 1rem;
     margin-bottom: 1rem;
+    line-height: 2;
 }
 
 .download_img {
@@ -275,6 +277,10 @@ a {
     }
     .tv-content{
         margin-bottom: -2rem;
+    }
+    .tv-content>h1{
+        text-align: center;
+        margin: 0;
     }
     .faq_section {
         padding: 2rem;
