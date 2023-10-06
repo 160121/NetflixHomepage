@@ -1,8 +1,6 @@
 # NetflixHomepage
-```markdown
-# Netflix-Inspired Homepage
 
-#Live Demo:[Netflix-Inspired Homepage](https://160121.github.io/NetflixHomepage/)
+# Live Demo :[Netflix-Inspired Homepage](https://160121.github.io/NetflixHomepage/)
 
 ## Description
 
@@ -38,6 +36,3 @@ Contributions to this project are welcome! If you'd like to enhance the design o
 
 - Special thanks to Netflix for providing inspiration for this project.
 - Thanks to the open-source community for providing resources and tools for web development.
-```
-
-This README is tailored to a static HTML and CSS project. Make sure to replace the placeholders with actual content and customize it further to suit your project's specific details.
